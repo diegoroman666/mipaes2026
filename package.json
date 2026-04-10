@@ -1,0 +1,14 @@
+{
+  "name": "mipes2026",
+  "version": "1.0.0",
+  "description": "Mi PAES 2026",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo build"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.3.0",
+    "@capacitor/cli": "^8.3.0",
+    "@capacitor/core": "^8.3.0"
+  }
+}
